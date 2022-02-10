@@ -4,9 +4,9 @@ Code pour le cours UQAC - 8INF956 - Développement avancé de logiciels : Patron
 ## Instructions
 
 ### Conditions préalables
-Pour exécuter les exemples, il est nécessaire d'avoir installé [Node.js] (https://nodejs.org/fr/)
+Pour exécuter les exemples, il est nécessaire d'avoir installé le [Node.js](https://nodejs.org/fr/)
 
-### Pas-à-pas
+### Installation de dependencies
 
 Exécutez la commande 
 ````bash
