@@ -5,7 +5,7 @@ export default class MenuComponent {
     this.price = price
   }
 
-  add(option){ 
+  add(component){ 
     throw new Error('Implementation required') 
   }
   
