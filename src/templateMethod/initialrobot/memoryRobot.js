@@ -3,9 +3,9 @@ export default class MemoryRobot {
 
   buildComponent(amount) {
     this.initializeConfiguration()
-    this.collectCores(amount)
-    this.mountCores()
-    this.testProcessing()
+    this.collectChips(amount)
+    this.mountChips()
+    this.storageTest()
     this.reset()
   }
 
